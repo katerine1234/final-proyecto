@@ -1,0 +1,30 @@
+
+.admin-header {
+    background-color: #0078d4; 
+    color: #fff; 
+    padding: 10px; 
+    text-align: center; 
+}
+
+.donations-table {
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 20px; 
+}
+
+.donations-table th, .donations-table td {
+    border: 1px solid #ccc; 
+    padding: 8px; 
+    text-align: left; 
+}
+
+.donations-table th {
+    background-color: #0078d4; 
+    color: #fff;
+}
+
+.donations-table a {
+    text-decoration: none; 
+    color: #0078d4; 
+    margin-right: 10px; 
+}
